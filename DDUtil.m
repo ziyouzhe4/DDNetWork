@@ -9,4 +9,9 @@
 
 @implementation DDUtil
 
+- (int)twoSumWitha:(int)a b:(int)b{
+
+    return a + b;
+}
+
 @end

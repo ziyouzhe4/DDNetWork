@@ -11,6 +11,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface DDUtil : NSObject
 
+- (int)twoSumWitha:(int)a b:(int)b;
+
 @end
 
 NS_ASSUME_NONNULL_END
