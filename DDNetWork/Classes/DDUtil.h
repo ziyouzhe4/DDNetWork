@@ -13,6 +13,9 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (int)twoSumWitha:(int)a b:(int)b;
 
+- (void)eat;
+
+
 @end
 
 NS_ASSUME_NONNULL_END

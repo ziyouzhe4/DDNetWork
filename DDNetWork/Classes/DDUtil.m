@@ -14,4 +14,8 @@
     return a + b;
 }
 
+-(void)eat{
+    NSLog(@"i eat an apple");
+}
+
 @end
